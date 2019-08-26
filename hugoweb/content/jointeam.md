@@ -8,7 +8,7 @@ Thanks for your interest.
 
 We are developing this using github and slack, see this document for more information:
 
-https://github.com/open-science-promoters/drososhareweb/contibute.md
+https://github.com/open-science-promoters/drososhareweb/blob/master/contributing.md
 
 
 ---
