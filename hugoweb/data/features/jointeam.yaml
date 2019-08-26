@@ -1,0 +1,5 @@
+weight: 3
+name: "Join the team"
+icon: "fa fa-lightbulb-o"
+description: "<p>We need you to make this real, please help.</p>"
+url: "/jointeam/"

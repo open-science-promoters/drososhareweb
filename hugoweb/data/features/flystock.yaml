@@ -1,0 +1,5 @@
+weight: 2
+name: "Flystockcleaner"
+icon: "fa fa-lightbulb-o"
+description: "<p>An application to clean your stock list.</p>"
+url: "/flystockcleaner/"

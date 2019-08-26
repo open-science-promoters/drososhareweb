@@ -1,0 +1,10 @@
+weight: 2
+title: "free the power lying in your stock inventory"
+description: >
+  <ul class="list-style-none">
+     <li>Developed in collaboration with reagents.io</li>
+     <li>Get flybase information into your stock list</li>
+     <li>Make your stock list searchable but secret</li>
+     <li>Get direct messages when a matching fly request comes in.</li>
+  </ul>
+image: "img/stocklist.png"
