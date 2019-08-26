@@ -75,7 +75,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "blue"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -174,7 +174,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # For more informtion take a look at the README.
     title1 = "Drososhare"
     title2 = " went OPEN SOURCE"
-    subtitle = "Lab to lab Fly transaction should be automated, smooth and easy. <br> This website presents a community created software solution to handle fruit fly sharing "
+    subtitle = """Lab to lab Fly transaction should be automated, smooth and easy. 
+    
+     This website presents a community created software solution to handle fruit fly sharing.
+    """
 
     
     
