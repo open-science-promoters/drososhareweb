@@ -6,9 +6,9 @@ description = "information"
 
 
 
-The output will look like http://rpubs.com/j_colomb/flybounty :
+The output will look like https://rpubs.com/j_colomb/flybounty :
 
-<iframe src ="http://rpubs.com/j_colomb/flybounty" height=800px width=800px ></iframe>
+<iframe src ="https://rpubs.com/j_colomb/flybounty" height=800px width=800px ></iframe>
 
 
 
