@@ -1,9 +1,9 @@
-weight: 3
-title: "An open source project"
+weight: 1
+title: "An community driven project"
 description: >
   <p>
      Drososhare GmbH failed to achieve a sustainable fly exchange platform, we hope an open source solution will succeed.
    </p>
    
-image: "img/opensciencelogo.png"
+image: "img/opensciencelogo_flower2.png"
 source: "CC-BY, https://github.com/jcolomb/opensciencelogo"

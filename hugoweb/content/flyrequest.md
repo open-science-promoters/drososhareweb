@@ -1,12 +1,16 @@
 +++
-title = "Key reagent OPEN table"
+title = "Fly line Request"
 description = "information"
 
 +++
 
 
 
-The output will look like this: http://rpubs.com/j_colomb/flybounty
+The output will look like http://rpubs.com/j_colomb/flybounty :
+
+<iframe src ="http://rpubs.com/j_colomb/flybounty" height=800px width=800px ></iframe>
+
+
 
 ATM, you can send your request to julien.colomb@fu-berlin.de, stating if you like a passive search (free) or an active one (billed 50€ per found line). 
 

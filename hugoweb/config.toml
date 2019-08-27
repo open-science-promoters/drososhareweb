@@ -173,10 +173,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title1 = "Drososhare"
-    title2 = " went OPEN SOURCE"
+    title2 = " is OPEN SOURCE"
     subtitle = """Lab to lab Fly transaction should be automated, smooth and easy. 
     
-     This website presents a community created software solution to handle fruit fly sharing.
+     This website presents a community created software solution to handle fruit fly sharing. JOin the team, let's build this together!
     """
 
     
